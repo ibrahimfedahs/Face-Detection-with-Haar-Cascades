@@ -1,4 +1,4 @@
-# Face Detection using Haar Cascades with OpenCV and Matplotlib
+# Face Detection with Haar Cascades
 
 ## Aim
 
@@ -121,7 +121,8 @@ plt.show()
 <img width="831" height="318" alt="download" src="https://github.com/user-attachments/assets/7bae54cb-eb51-44f8-a983-ee1d3309e587" />
 <img width="552" height="395" alt="download" src="https://github.com/user-attachments/assets/3f226b32-f5cf-4097-b7e7-78f66f751a30" />
 <img width="831" height="318" alt="download" src="https://github.com/user-attachments/assets/e1224778-c9eb-4534-b36f-d013a344ac0b" />
-<img width="521" height="414" alt="download" src="https://github.com/user-attachments/assets/d8ca399e-1e1b-45e0-b824-d02136957334" />
+<img width="521" height="414" alt="download" src="https://github.com/user-attachments/assets/4df02088-bff6-4f55-a735-b52e5921e769" />
+
 
 
 ### RESULT:
